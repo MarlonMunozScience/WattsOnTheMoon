@@ -1,0 +1,6 @@
+[
+    {"ADC": "Load Current", "low": -20, "high": 32},
+    {"ADC": "Load Voltage", "low": 0, "high": 30},
+    {"ADC": "Battery Current", "low": -15, "high": 15},
+    {"ADC": "Battery Voltage", "low": 23, "high": 29.2}
+  ]

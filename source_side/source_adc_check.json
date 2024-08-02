@@ -1,0 +1,10 @@
+[
+    {"ADC": "Source In Current", "low": -20, "high": 17.5},
+    {"ADC": "Source In Voltage", "low": 0, "high": 125},
+    {"ADC": "BCM LV In Voltage", "low": 0, "high": 95},
+    {"ADC": "BCM LV In Current", "low": -20, "high": 12},
+    {"ADC": "Battery Voltage", "low": 41, "high": 54},
+    {"ADC": "Battery Current", "low": -15, "high":  15},
+    {"ADC": "400 V Line Voltage", "low": 0, "high": 430},
+    {"ADC": "400 V Line Current", "low": -20, "high": 1.5}
+  ]
